@@ -1,3 +1,3 @@
-- 🕊 Hello ~
+- 🕊 hello ~
 - 👨‍💻 I'm a software engineer from China.
-- 👋 Hope you can find what you need here.
+- 👋 hope you can find what you need here.
