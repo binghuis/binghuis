@@ -1,3 +1,5 @@
+- 👋 Hello~
+
 - 👨‍💻 I'm a software engineer from China.
-- 🍪 I am laid-back, but I prefer things to be structured.
-- 👐 I love open source.
+
+- 🫶 I hope you can find what you need here.
